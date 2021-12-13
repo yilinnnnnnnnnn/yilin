@@ -7,19 +7,19 @@ header, nav, main, footer{
 }
 
 #heroroad {
-    background-image: url('images/heroroad.jpg');
+    background-image: url('Images/heroroad.jpg');
     background-size: 100% 100%;
     height: 250px;
 }
 
 #heromugs {
-    background-image: url('images/heromugs.jpg');
+    background-image: url('Images/heromugs.jpg');
     background-size: 100% 100%;
     height: 250px;
 }
 
 #heroguitar {
-    background-image: url('images/heroguitar.jpg');
+    background-image: url('Images/heroguitar.jpg');
     background-size: 100% 100%;
     height: 250px;
 }
